@@ -13,4 +13,4 @@ Las páginas utilizadas para la información de la web son:
 
 [Forbes.com](www.forbes.com)
 
-[Wikipedia](www.wikipedia.com)
+[Wikipedia](https://es.wikipedia.org/wiki/Anexo:Milmillonarios_seg%C3%BAn_Forbes)
