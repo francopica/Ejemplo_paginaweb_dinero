@@ -1,4 +1,4 @@
-# Ejemplo_paginaweb_dinero
+# Ejemplo pagina web dinero
 ## Personas mas ricas del mundo.
 
 En la página web se muestran las personas **más ricas del mundo**.
